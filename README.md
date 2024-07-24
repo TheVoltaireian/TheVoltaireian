@@ -2,11 +2,11 @@
 
 <h3 align="center">i am a decent-ish HTML and CSS programmer, and a youtuber with 0 subs. (i haven't uploaded at all)</h3>
 <div align="center">
-► 👀 i’m interested in learning <strong>Python and Lua.</strong> ◄<br>
-► 🌱 i’m currently learning <strong>Javascript.</strong> ◄<br>
-► ⚡ fun fact: my dream university is <strong>MIT!</strong> ◄<br>
-► 🚀 when I'm bored or in my free time, I either read books or make a passion project! ◄<br>
-► 🔥 i hope to work at a <strong>Big Tech</strong> company one day. ◄
+👀 i’m interested in learning <strong>Python and Lua.</strong> 👀 <br>
+🌱 i’m currently learning <strong>Javascript.</strong> 🌱 <br>
+⚡ fun fact: my dream university is <strong>MIT!</strong> ⚡ <br>
+🚀 when I'm bored or in my free time, I either read books or make a passion project! 🚀 <br>
+🔥 i hope to work at a <strong>Big Tech</strong> company one day. 🔥
 </div>
 <br>
 <h3 align="center">languages i've learned</h3>
