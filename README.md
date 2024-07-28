@@ -6,7 +6,7 @@
 🌱 i’m currently learning <strong>Javascript.</strong> 🌱 <br>
 ⚡ fun fact: my dream university is <strong>MIT!</strong> ⚡ <br>
 🚀 when I'm bored or in my free time, I either read books or make a passion project! 🚀 <br>
-🔥 i hope to work at a <strong>Big Tech</strong> company one day. 🔥
+🔥 i hope to work at a <strong>Magnificent Seven</strong> company one day. 🔥
 </div>
 <br>
 <h3 align="center">languages i've learned</h3>
