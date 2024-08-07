@@ -11,13 +11,16 @@
 <br>
 <h3 align="center">languages i've learned</h3>
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="max-width: 100%;"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="max-width: 100%;"> 
+
+![](https://img.shields.io/badge/HTML-FF5200?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-0098ff?style=for-the-badge&logo=css3&logoColor=white)
 </div>
-<br>
+<br><br><br>
 <h3 align="center">check out the Linktree in my bio for all socials!<br>👈</h3>
+<br>
 
 <div align="center">
+<h3 align="center">Badges that nobody will care about<br>🔖</h3>
 
 ![](https://img.shields.io/badge/HTML-FF5200?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-0098ff?style=for-the-badge&logo=css3&logoColor=white)
