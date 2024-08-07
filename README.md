@@ -19,8 +19,12 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/HTML-FF5200?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-0098ff?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Brave_Browser-FF4000?style=for-the-badge&logo=brave&logoColor=white)
+![](https://img.shields.io/badge/Github-1e1e1e?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Gmail-1cca00?style=for-the-badge&logo=gmail&logoColor=white)
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=vscode&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br>
 ![site wordmark (1)](https://github.com/user-attachments/assets/82a05826-3b51-49bb-b073-a3ac4736aeb7)
