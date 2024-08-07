@@ -17,10 +17,10 @@
 </div>
 <br><br><br>
 <h3 align="center">check out the Linktree in my bio for all socials!<br>👈</h3>
-<br>
+<br><br><br>
 
 <div align="center">
-<h3 align="center">Badges that nobody will care about<br>🔖</h3>
+<h3 align="center">badges that nobody will care about 📑</h3>
 
 ![](https://img.shields.io/badge/HTML-FF5200?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-0098ff?style=for-the-badge&logo=css3&logoColor=white)
