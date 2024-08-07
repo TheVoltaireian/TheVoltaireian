@@ -18,7 +18,11 @@
 <h3 align="center">check out the Linktree in my bio for all socials!<br>👈</h3>
 
 <div align="center">
-  
+
+![](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<br>
 ![site wordmark (1)](https://github.com/user-attachments/assets/82a05826-3b51-49bb-b073-a3ac4736aeb7)
 
 </div>
