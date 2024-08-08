@@ -9,15 +9,19 @@
 🔥 i hope to work at a <strong>Magnificent Seven</strong> company one day. 🔥
 </div>
 <br>
+<div align="center">
+  
+[![roadmap.sh](https://roadmap.sh/card/wide/66b42b68e70e3d5622a00f69?variant=dark)](https://roadmap.sh)
+</div>
 <h3 align="center">languages i've learned</h3>
 <div align="center">
 
 ![](https://img.shields.io/badge/HTML-FF5200?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-0098ff?style=for-the-badge&logo=css3&logoColor=white)
 </div>
-<br><br><br>
+<br><br><br><hr>
 <h3 align="center">check out the Linktree in my bio for all socials!<br>👈</h3>
-<br><br><br>
+<hr><br><br><br>
 
 <div align="center">
 <h3 align="center">badges that nobody will care about 📑</h3>
