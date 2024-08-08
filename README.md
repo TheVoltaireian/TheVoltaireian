@@ -11,7 +11,7 @@
 <br>
 <div align="center">
   
-[![roadmap.sh](https://roadmap.sh/card/wide/66b42b68e70e3d5622a00f69?variant=dark&roadmaps=frontend%2Cbackend%2Capi-design%2Cdevops)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66b42b68e70e3d5622a00f69?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Capi-design)](https://roadmap.sh)
 </div>
 <h3 align="center">languages i've learned</h3>
 <div align="center">
