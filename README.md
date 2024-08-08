@@ -1,4 +1,4 @@
-<h1 align="center">👋 hi, i’m <strong>A_WildVØLTΛIЯΣIΛП</strong><br>(vowl·tehr·EE·an)</h1>
+<h1 align="center">👋<br> hi, i’m <strong>A_WildVØLTΛIЯΣIΛП</strong><br>(vowl·tehr·EE·an)</h1>
 
 <h3 align="center">i am a decent-ish HTML and CSS programmer, and a youtuber with 0 subs. (i haven't uploaded at all)</h3>
 <div align="center">
