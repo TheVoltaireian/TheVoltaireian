@@ -33,7 +33,6 @@
 ![](https://img.shields.io/badge/Gmail-1cca00?style=for-the-badge&logo=gmail&logoColor=white)
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=vscode&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)
 <br>
 ![site wordmark (1)](https://github.com/user-attachments/assets/82a05826-3b51-49bb-b073-a3ac4736aeb7)
 
