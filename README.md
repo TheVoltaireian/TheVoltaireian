@@ -1,4 +1,4 @@
-<h1 align="center">👋<br>hi, i’m <strong>A_WildVØLTΛIЯΣIΛП</strong><br>(vowl·tehr·EE·an)</h1>
+<h1 align="center">👋<br>hi, i’m <strong>WildVoltaireian</strong><br>(vowl·tehr·EE·an)</h1>
 
 <h3 align="center">i am a decent-ish HTML and CSS programmer, and a youtuber with 0 subs. (i haven't uploaded at all)</h3>
 <div align="center">
@@ -9,10 +9,6 @@
 🔥 i hope to work at a <strong>Magnificent Seven</strong> company one day. 🔥
 </div>
 <br>
-<div align="center">
-  
-[![roadmap.sh](https://roadmap.sh/card/wide/66b42b68e70e3d5622a00f69?variant=dark&roadmaps=frontend)](https://roadmap.sh)
-</div>
 <h3 align="center">languages i've learned</h3>
 <div align="center">
 
