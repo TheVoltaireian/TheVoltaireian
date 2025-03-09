@@ -1,11 +1,11 @@
 <h1 align="center">👋<br>hi, i’m <strong>WildVoltaireian</strong><br>(vowl·tehr·EE·an)</h1>
 
-<h3 align="center">i am a decent-ish HTML and CSS programmer, and a youtuber with 0 subs. (i haven't uploaded at all)</h3>
+<h3 align="center">i am a decent-ish HTML and CSS programmer, and I work on ROBLOX wikis.</h3>
 <div align="center">
 👀 i’m interested in learning <strong>Python and Lua.</strong> 👀 <br>
 🌱 i’m currently learning <strong>Javascript.</strong> 🌱 <br>
 ⚡ fun fact: my dream university is <strong>MIT!</strong> ⚡ <br>
-🚀 when I'm bored or in my free time, I either read books or make a passion project! 🚀 <br>
+🚀 when I'm bored or in my free time, I either read books or work on the Outlaster Wiki, my main project. 🚀 <br>
 🔥 i hope to work at a <strong>Magnificent Seven</strong> company one day. 🔥
 </div>
 <br>
