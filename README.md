@@ -11,8 +11,12 @@
 <br>
 <h3 align="center">check out the wikis i've worked on</h3>
 
-- [Outlaster Wiki: Bureaucrat and CSS specialist](https://outlaster.miraheze.org)
-- [Guts and Blackpowder Wiki: Secondary CSS specialist](https://outlaster.miraheze.org)
+<div style="text-align: center">
+
+[Outlaster Wiki: Bureaucrat and CSS specialist](https://outlaster.miraheze.org)
+[Guts and Blackpowder Wiki: Secondary CSS specialist](https://gbp.miraheze.org)
+
+</div>
 
 <br><br><br><hr>
 <h3 align="center">check out the Linktree in my bio for all socials!<br>👈</h3>
