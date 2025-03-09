@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[Outlaster Wiki: Bureaucrat and CSS specialist](https://outlaster.miraheze.org) <br>
+[Outlaster Wiki: Bureaucrat and Primary CSS specialist](https://outlaster.miraheze.org) <br>
 [Guts and Blackpowder Wiki: Secondary CSS specialist](https://gbp.miraheze.org)
 
 </div>
