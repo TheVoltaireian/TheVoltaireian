@@ -9,12 +9,9 @@
 🔥 i hope to work at a <strong>Magnificent Seven</strong> company one day. 🔥
 </div>
 <br>
-<h3 align="center">languages i've learned</h3>
-<div align="center">
-
-![](https://img.shields.io/badge/HTML-FF5200?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-0098ff?style=for-the-badge&logo=css3&logoColor=white)
-</div>
+<h3 align="center">check out the wikis i've worked on</h3>
+- [Outlaster Wiki: Bureaucrat and CSS specialist](https://outlaster.miraheze.org)
+- [Guts and Blackpowder Wiki: Secondary CSS specialist](https://outlaster.miraheze.org)
 <br><br><br><hr>
 <h3 align="center">check out the Linktree in my bio for all socials!<br>👈</h3>
 <hr><br><br><br>
