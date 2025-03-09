@@ -11,9 +11,9 @@
 <br>
 <h3 align="center">check out the wikis i've worked on</h3>
 
-<div style="text-align: center">
+<div align="center">
 
-[Outlaster Wiki: Bureaucrat and CSS specialist](https://outlaster.miraheze.org)
+[Outlaster Wiki: Bureaucrat and CSS specialist](https://outlaster.miraheze.org) <br>
 [Guts and Blackpowder Wiki: Secondary CSS specialist](https://gbp.miraheze.org)
 
 </div>
