@@ -10,8 +10,10 @@
 </div>
 <br>
 <h3 align="center">check out the wikis i've worked on</h3>
+
 - [Outlaster Wiki: Bureaucrat and CSS specialist](https://outlaster.miraheze.org)
 - [Guts and Blackpowder Wiki: Secondary CSS specialist](https://outlaster.miraheze.org)
+
 <br><br><br><hr>
 <h3 align="center">check out the Linktree in my bio for all socials!<br>👈</h3>
 <hr><br><br><br>
