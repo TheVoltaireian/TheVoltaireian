@@ -21,6 +21,7 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25snv.svg?style=for-the-badge&logo=gnubash&logoColor=fff)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=fff)
 ![Brave](https://img.shields.io/badge/Brave-FB542B.svg?style=for-the-badge&logo=brave&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
