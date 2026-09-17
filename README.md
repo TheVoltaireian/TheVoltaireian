@@ -1,29 +1,16 @@
 <h1 align="center">👋<br>Hi, I’m <strong>WildVoltaireian</strong><br>(vowl·tehr·EE·an)</h1>
 
-<h3 align="center">I am a decent-ish HTML and CSS programmer, and in my free time, I volunteer on Miraheze wikis, mainly ROBLOX-related.</h3>
+<h3 align="center">I am a decent-ish web developer and designer, and in my free time, I volunteer on Miraheze wikis, mainly ROBLOX-related.</h3>
 <div align="center">
-👀 I'm interested in learning <strong>Python and Lua.</strong> 👀 <br>
-🌱 I'm currently learning <strong>Javascript.</strong> 🌱 <br>
-⚡ Fun Fact: My dream university is <strong>MIT!</strong> ⚡ <br>
-🚀 When I'm bored or in my free time, I either read books or work on the Outlaster Wiki, my main project. 🚀 <br>
-🔥 I hope to work at a <strong>Magnificent Seven</strong> company one day. 🔥
-</div>
-<br>
-<h3 align="center">Check out the wikis I've worked on</h3>
-
-<div align="center">
-
-[Outlaster Wiki: Bureaucrat and Primary CSS specialist](https://outlaster.miraheze.org) <br>
-[Guts and Blackpowder Wiki: Secondary CSS specialist](https://gbp.miraheze.org)
-
+👀 I'm interested in learning <strong>Python and Lua</strong> 👀 <br>
+🌱 I'm currently learning <strong>Javascript</strong> 🌱 <br>
+⚡ My dream universities are <strong>MIT & Northeastern</strong> ⚡ <br>
+🚀 When I'm bored or in my free time, I either work on my portfolio or a wiki I'm volunteering on 🚀 <br>
+🔥 I hope to work at a <strong>Magnificent Seven</strong> company one day 🔥
 </div>
 
-<br><br><br>
-<h3 align="center">Check out the Linktree in my bio for all socials!<br>👈</h3>
-<br><br><br>
-
 <div align="center">
-<h3 align="center">badges that nobody will care about 📑</h3>
+<h3 align="center">badges 📑</h3>
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
