@@ -1,4 +1,4 @@
-# 👋 Hi, I’m WildVoltaireian! (vowl·tehr·EE·an)
+# Hi, I’m WildVoltaireian! (vowl·tehr·EE·an) 👋
 I do web development and wiki stuff.
 
 ## Fun facts
