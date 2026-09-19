@@ -13,7 +13,7 @@ I do web development and wiki stuff.
 ## About me
 I'm a high school student with aspirations to major in Computer Science and work in the web development/cybersecurity field.
 
-## Contact me
+## Need to reach out?
 - 🐦 [Twitter/X](https://x.com/WildVoltaireian)
 
 <hr>
