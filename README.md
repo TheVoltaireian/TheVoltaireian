@@ -11,7 +11,9 @@ I do web development and wiki stuff.
 - **[My website](https://github.com/TheVoltaireian/Website)** — A work-in-progress portfolio/blog website that I'm working on, built with HTML, Sass and JavaScript.
 
 ## About me
-I'm a high school student with aspirations to major in Computer Science and work in the web development/cybersecurity field.
+- Current high school student (Class of '29)
+- Aspiring to major in Computer Science and work in the web development/cybersecurity field
+- Web dev since 2023
 
 ## Need to reach out?
 - 🐦 [Twitter/X](https://x.com/WildVoltaireian)
