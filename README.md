@@ -1,17 +1,22 @@
-<h1 align="center">👋<br>Hi, I’m <strong>WildVoltaireian</strong><br>(vowl·tehr·EE·an)</h1>
+# 👋 Hi, I’m WildVoltaireian! (vowl·tehr·EE·an)
+I do web development and wiki stuff.
 
-<h3 align="center">I am a decent-ish web developer and designer, and in my free time, I volunteer on Miraheze wikis, mainly ROBLOX-related.</h3>
-<div align="center">
-👀 I'm interested in learning <strong>Python and Lua</strong> 👀 <br>
-🌱 I'm currently learning <strong>Javascript</strong> 🌱 <br>
-⚡ My dream universities are <strong>MIT & Northeastern</strong> ⚡ <br>
-🚀 When I'm bored or in my free time, I either work on my portfolio or a wiki I'm volunteering on 🚀 <br>
-🔥 I hope to work at a big tech company one day 🔥
-</div>
+## Fun facts
+- **I'm good at** — HTML, Sass, Wikitext 🧠
+- **Currently learning** - Javascript 🌱
+- **Interested in learning** — Python & Lua 📝
+- **In my free time** — Volunteer on Roblox-related wikis 📝
 
-<br>
+## What I'm working on currently
+- **[My website](https://github.com/TheVoltaireian/Website)** — A work-in-progress portfolio/blog website that I'm working on, built with HTML, Sass and JavaScript.
 
-<div align="center">
+## About me
+I'm a high school student with aspirations to major in Computer Science and work in the web development/cybersecurity field.
+
+## Contact me
+- 🐦 [Twitter/X](https://x.com/WildVoltaireian)
+
+<hr>
 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-639.svg?style=for-the-badge&logo=css&logoColor=white)
@@ -31,7 +36,6 @@
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-</div>
 <!---
 TheVoltaireian/TheVoltaireian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
